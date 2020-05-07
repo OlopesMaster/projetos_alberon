@@ -1,0 +1,39 @@
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.exe
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.xml
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\bin\Debug\pt-BR\PROJETO.resources.dll
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.pt-BR.resources
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\pt-BR\PROJETO.resources.dll
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.exe
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.xml
+c:\users\aluno\documents\visual studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\bin\Debug\PROJETO.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\bin\Debug\pt-BR\PROJETO.resources.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.pt-BR.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\PROJETO.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\PROJETO\PROJETO\obj\x86\Debug\pt-BR\PROJETO.resources.dll
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.exe
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.xml
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.pdb
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\bin\Debug\PROJETO.exe
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\bin\Debug\PROJETO.pdb
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\bin\Debug\PROJETO.xml
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\bin\Debug\pt-BR\PROJETO.resources.dll
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.resources
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Resources.resources
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.Projeto1.pt-BR.resources
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\PROJETO.vbproj.GenerateResource.Cache
+D:\2ano\1 semestre\alberson\1bi\projeto\PROJETO\PROJETO\obj\x86\Debug\pt-BR\PROJETO.resources.dll
+C:\Users\olope\Desktop\PROJETO\PROJETO\obj\x86\Debug\PROJETO.exe
+C:\Users\olope\Desktop\PROJETO\PROJETO\obj\x86\Debug\PROJETO.xml
+C:\Users\olope\Desktop\PROJETO\PROJETO\obj\x86\Debug\PROJETO.pdb
